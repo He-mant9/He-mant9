@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --><h1 align="center">Hi 🙏, I'm Hemant Dharmendra Khambait</h1>
-<h3 align="center">I am from Nashik maharashtra</h3>
+<h3 align="center">I am from Nashik Maharashtra</h3>
 
 - 🌱 I’m currently learning **JS, python, java,**
 
