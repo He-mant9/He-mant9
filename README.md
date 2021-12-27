@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **kumarkhambait20@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/12q4aJsX2fM1IHo_OrPYtZGBy3ngcO_g-?usp=sharing](https://drive.google.com/drive/folders/12q4aJsX2fM1IHo_OrPYtZGBy3ngcO_g-?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/drive/folders/12q4aJsX2fM1IHo_OrPYtZGBy3ngcO_g-?usp=sharing](https://drive.google.com/file/d/1a5_EfG6Jp0O0XX1d9EskpHim1T7n1cwf/view?usp=sharing)
 
 - ⚡ Fun fact **I think I am funny**
 
