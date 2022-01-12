@@ -38,6 +38,6 @@ Here are some ideas to get you started:
                         /><img
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=He-mant9"
                      /></p><p align='right'></p>
-                     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hemant-Khambait&hide_title=false&layout=compact&bg_color=24292e&text_color=fff&title_color=fff">
+                     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=He-mant9&hide_title=false&layout=compact&bg_color=24292e&text_color=fff&title_color=fff">
 </p>
 
