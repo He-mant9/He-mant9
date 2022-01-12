@@ -55,13 +55,13 @@ Here are some ideas to get you started:
 </p>
 <p align="center">
   
-  <code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C"></code>
-<code><img height="50" src="https://github.com/JeesaPrakash/JeesaPrakash/blob/main/java-logo-1.png" alt="Java"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"></code>
-<code><img height="50" src="https://github.com/Hemant_Khambait/Hemant_Khambait/blob/main/android.png" alt="Android"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase"></code>
+<code><img height="50" src=" " alt="C"></code>
+<code><img height="50" src=" " alt="Java"></code>
+<code><img height="50" src=" " alt="HTML"></code>
+<code><img height="50" src=" " alt="CSS"></code>
+<code><img height="50" src=" " alt="Android"></code>
+<code><img height="50" src=" " alt="Python"></code>
+<code><img height="50" src=" " alt="Firebase"></code>
 
   
   
