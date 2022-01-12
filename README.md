@@ -55,5 +55,5 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-Made with 💖 and ☕</p>
+Made with 💻 and ☕</p>
 
