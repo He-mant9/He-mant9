@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-<p align='left'><img src="https://github-readme-stats.vercel.app/api?username=He-mant9&count_private=true&title_color=0969da&icon_color=0969da&text_color=0C2233&custom_title=Hemant+Khambait's+GitHub+Stats&show_icons=true" />
+<p align='left'><img src="https://github-readme-stats.vercel.app/api?username=He-mant9&count_private=true&title_color=0969da&icon_color=0969da&text_color=0C2233&custom_title=Hemant+Khambait's+GitHub+Stats&show_icons=true" /><p align="center">
  
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=He-mant9&hide_title=false&layout=compact&bg_color=24292e&text_color=fff&title_color=fff">
 </p>
