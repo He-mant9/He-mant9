@@ -34,12 +34,25 @@ Here are some ideas to get you started:
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-<p align='left'><img src="https://github-readme-stats.vercel.app/api?username=He-mant9&count_private=true&title_color=0969da&icon_color=0969da&text_color=0C2233&custom_title=Hemant+Khambait's+GitHub+Stats&show_icons=true"
-                        /><img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=He-mant9"
-                     /></p><p align='right'></p>
-                     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=He-mant9&hide_title=false&layout=compact&bg_color=24292e&text_color=fff&title_color=fff">
+
+
+
+
+
+<p align='left'><img src="https://github-readme-stats.vercel.app/api?username=He-mant9&count_private=true&title_color=0969da&icon_color=0969da&text_color=0C2233&custom_title=Hemant+Khambait's+GitHub+Stats&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=He-mant9"/></p><p align='right'></p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=He-mant9&hide_title=false&layout=compact&bg_color=24292e&text_color=fff&title_color=fff">
 </p>
+
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=JeesaPrakash&show_icons=true&border=true&icon_color=79ff97&text_color=efefef&bg_color=24292e&title_color=fff" alt="Jeesa's Github stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeesaPrakash&hide_title=false&layout=compact&bg_color=24292e&text_color=fff&title_color=fff">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Hemant_Khambait&theme=tokyonight" alt="Hemant's Streak">
+</p><br>
+<h1 align="center">Languages and Tools</h1>
+<p align="center">
+
+
 
 </p><br>
 <h1 align="center">Catch Me At</h1>
