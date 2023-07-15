@@ -18,7 +18,7 @@ nvm install 16.15.0
 sudo apt-get install npm
 sudo npm install -g yarn
 sudo pip3 install frappe-bench
-bench init --frappe-branch version-14 frappe-bench
+bench init --frappe-branch version-5.16.4 frappe-bench
 cd frappe-bench
 bench new-site site1 --dbname site1
 bench get-app payments
@@ -26,6 +26,12 @@ bench get-app --branch version-14 erpnext
 bench get-app hrms
 bench --site site1 install-app erpnext
 bench --site site1 install-app hrms
+bench --site site1 enable-scheduler
+bench --site site1 set-maintenance-mode off
+sudo bench setup production Hemant
+bench setup nginx
+sudo supervisorctl restart all
+sudo bench setup production Hemant
 bench start
 
 
