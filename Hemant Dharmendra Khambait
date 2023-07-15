@@ -1,0 +1,8 @@
+sudo apt update && sudo apt -y upgrade -y
+sudo reboot
+sudo apt-get install mariadb-server-10.3
+sudo apt-get install mariadb-client-10.3​
+sudo mysql_secure_installation​
+sudo apt-get install libmysqlclient-dev​
+sudo nano /etc/mysql/maridb.conf.d/50-server.cnf​
+
