@@ -33,6 +33,7 @@ bench setup nginx
 sudo supervisorctl restart all
 sudo bench setup production Hemant
 bench start
+exit
 
 
 
