@@ -18,7 +18,7 @@ nvm install 16.15.0
 sudo apt-get install npm
 sudo npm install -g yarn
 sudo pip3 install frappe-bench
-bench init --frappe-branch version-5.16.4 frappe-bench
+bench init --frappe-bench version-5.16.4 frappe-bench
 cd frappe-bench
 bench new-site site1 --dbname site1
 bench get-app payments
