@@ -22,7 +22,7 @@ bench init --frappe-bench version-5.16.4 frappe-bench
 cd frappe-bench
 bench new-site site1 --dbname site1
 bench get-app payments
-bench get-app --branch version-14 erpnext
+bench get-app --bench version-14 erpnext
 bench get-app hrms
 bench --site site1 install-app erpnext
 bench --site site1 install-app hrms
