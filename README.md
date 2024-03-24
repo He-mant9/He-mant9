@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 <h1 align="center">Catch Me At</h1>
 <p align="center">
 <br>
-<a href="https://www.linkedin.com/in/hemant-khambait-96ab12206/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/hemant-khambait-96ab12206/"><img src="[https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/hemant-khambait-96ab12206/)" alt="LinkedIn" /></a>&nbsp;
 </p>
 
 <p align="center">
