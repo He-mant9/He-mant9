@@ -43,19 +43,6 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=He-mant9&hide_title=false&layout=compact&bg_color=24292e&text_color=fff&title_color=fff">
 </p>
 <p align="center">
-  
-
-</p><br>
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
-<h1 align="center">Catch Me At</h1>
-<p align="center">
-<br>
-<a href="https://www.linkedin.com/in/hemant-khambait-96ab12206/"><img src="[https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/hemant-khambait-96ab12206/)" alt="LinkedIn" /></a>&nbsp;
-</p>
-
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
-
-<div align="center">
 
 ###
 
