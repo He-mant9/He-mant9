@@ -17,11 +17,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **PUCSD**
 - 🌱 I’m currently learning **GO, Python, Bashscript,**
-
-- 👨‍💻 All of my projects are available at [https://github.com/He-mant9?tab=repositories](https://github.com/He-mant9?tab=repositories)
-
 - 💬 Ask me about **Docker, Kubernetice, Jenkins, Terraform, AWS, Azure**
-
 - 📫 How to reach me **kumarkhambait20@gmail.com**
 
  
